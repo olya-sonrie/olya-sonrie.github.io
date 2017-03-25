@@ -1,0 +1,528 @@
+html {
+	width: 1280px;
+}
+
+body {
+	margin: 0 2.7% 0 2.7%;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+ul li {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.first {	
+	background-position: 50% 50%;	
+	position: relative;
+	height: 745px;
+	width: 1280px;
+}
+
+.container{
+	margin: 0 228px;
+	width: 950px;
+}
+
+/* NAVIGATION */
+.navbar {
+	margin: auto;	
+}
+
+.navbar li {
+	float: left;
+	font-size: 15px;
+	margin-top: 4px;	
+	font-family: 'Gotham Rounded';
+}
+.navbar a {
+	display: block;
+	color: #FFFFFF;
+	line-height: 10em;
+	font-weight: bolder;
+	text-align: left;
+	letter-spacing: 3px;
+}
+
+.navbar img {
+	margin: 36px 40px;
+}
+
+.navbar li a:hover {
+	color: #A670A2;
+	background-color: transparent;
+}
+
+.maintext h1 {
+	float: left;
+	display: block;
+	text-align: center;
+	margin: 178px 27% 0px;
+	width: 600px;
+	font-size: 37px;
+	font-family: 'Gotham RoundedBold';
+	font-weight: bolder;
+	letter-spacing: 4.3px;
+	word-spacing: 3.4px;
+	color: #FFFFFF;
+}
+
+.maintext .mcont {
+	float: left;
+	display: block;
+	text-align: center;
+	margin: 8px 34.5% 0px;
+	width: 400px;
+	font-size: 15px;
+	font-family: 'Gotham RoundedMedium';
+	font-weight: normal;	
+	letter-spacing: 3px;
+	word-spacing: -0.5px;
+	color: #FFFFFF;
+}
+
+button {
+	background-color: #16A085;
+	height: 49px;
+	display: block;
+	border: none;
+	border-radius: 3px;
+	float: left;
+	text-align: center;
+}
+
+.mbutt button {
+	width: 166px;
+	margin: 25.4px 43.59% 0px;
+}
+
+.mbutt button {
+	color: #ffffff;
+	font-family: 'Gotham RoundedBold';
+	font-size: 12px;
+	letter-spacing: 2px;
+	padding: 1px 0px;
+}
+
+.logimg {
+	float: left;
+	display: block;
+	margin: 220.2px 46.17% 0px;
+	width: 120px;
+}
+
+.logimg img {
+	padding-right: 12px;
+}
+
+.second {
+	position: relative;
+	height: 492px;
+	width: 1280px;
+}
+
+.second p {
+	margin: 0;
+	float: left;
+	display: block;
+	color: #16A085;
+	font-family: 'Gotham RoundedBold';
+	font-size: 18px;
+	padding: 109px 0px 0px 129px;
+	letter-spacing: 2.35px;
+	word-spacing: 2.5px;
+}
+
+.second .scont {
+	margin: 0;
+	float: left;
+	clear: both;
+	display: block;
+	color: #373737;
+	font-family: 'Gotham Rounded';
+	font-size: 12px;
+	line-height: 24px;
+	letter-spacing: 1.63px;
+	word-spacing: 1.23px;
+	padding: 39px 0px 0px 127.5px;
+}
+
+.second button {
+	margin: 41px 10.1% 0px;
+	float: left;
+	clear: both;
+	display: block;
+	height: 51px;
+	width: 192px;
+	color: #ffffff;
+	font-family: 'Gotham RoundedBold';
+	font-size: 12px;
+	letter-spacing: 2px;
+	word-spacing: -1px;
+	padding: 3px 0px 0px 2px;
+}
+
+.iphonepic {
+	float: right;
+	display: block;
+	clear: right;
+	padding: -500px 0px;
+	margin: -311.5px 128px;
+}
+
+.third {
+	position: relative;
+	height: 558px;
+	width: 1280px;
+}
+
+.third p {
+	margin: 0;
+	color: #16A085;
+	font-family: 'Gotham RoundedBold';
+	font-size: 18px;
+	float: right;
+	padding: 142.5px 427px 0px 0px;
+	letter-spacing: 2.5px;
+}
+
+.third .tcont {
+	margin: 0;
+	color: #373737;
+	font-family: 'Gotham Rounded';
+	font-size: 12px;
+	line-height: 22px;
+	letter-spacing: 1.8px;
+	float: right;
+	padding: 33.5px 80px 0px 400px;
+}
+
+.third button {
+	float: right;
+	margin: 38px 25.07% 0px;
+	height: 51px;
+	width: 192px;
+	border-radius: 0px;
+	color: #ffffff;
+	font-family: 'Gotham RoundedBold';
+	font-size: 12px;
+	letter-spacing: 1.8px;
+	padding: 0px 4.5px 0px 0px;
+}
+
+.pointer {
+	float: right;
+	margin-top: 132px;
+	margin-right: -390px;
+}
+
+.pointer p {
+	float: right;
+	padding: 0px 5px 0px 0px;
+	color: #000000;
+	padding-right: 23px;
+	letter-spacing: 2px;
+	font-size: 12px;
+}
+
+.pointer img {
+	margin-top: 3px;
+	padding-right: 17.7px;
+}
+
+.third .phone {
+	margin: 0;
+	float: right;
+	margin: -161px 8px 0px 0px;
+}
+
+.boldtext {
+	font-family: 'Gotham RoundedBold';
+}
+
+.fourth {
+	display: block;
+	position: relative;
+	height: 484px;
+	width: 1280px;
+	margin: 0;
+	text-align: center;
+}
+
+.fourth p {
+	margin: 38px -118px;
+	color: #000000;
+	font-family: 'Gotham RoundedBold';
+	font-size: 17px;
+	float: left;
+	padding: 0;
+	letter-spacing: 2px;
+	word-spacing: -2.5px;
+}
+
+.leftcont img {
+	float: left;
+	margin: -40px 0px 0px 187px;
+}
+
+.fourth .fcont {
+	margin: -32px 0px 0px 0px;
+	color: #000000;
+	font-family: 'Gotham Rounded';
+	font-size: 10px;
+	line-height: 12px;
+	letter-spacing: 1.5px;
+	word-spacing: 1px;
+	float: left;
+	clear: both;
+	padding: 0px 146.5px;
+}
+
+.pics {
+	float: right;
+	display: block;
+	clear: both;
+	margin: -180px 0px;
+	padding: 0px 109px 0px 0px;
+}
+
+.pics img {
+	padding-right: 20px;
+}
+
+.p_arrows {
+	margin: -33px 0px 5px 720px;
+}
+
+.p_arrows a {
+	margin-right: -10px;
+	padding-right: 2px;
+}
+
+.fifthy {
+	display: block;
+	position: relative;
+	height: 789px;
+	width: 1280px;
+	margin: 0;
+	text-align: center;
+}
+
+.fifthy p {
+	margin: 0px;
+	color: #ffffff;
+	font-family: 'Gotham RoundedBold';
+	font-size: 24px;
+	float: left;
+	display: block;
+	padding: 347px 0px 0px 404px;
+	letter-spacing: 3.2px;
+	word-spacing: 2.5px;
+}
+
+::-webkit-input-placeholder {
+	color: #000000;
+	font-size: 18px;
+	margin: 0;
+	padding: 12px 0px 0px 21px;
+	word-spacing: 2.5px;
+	letter-spacing: 0.7px;
+}
+
+.fifthy .subscr {
+	float: left;
+	display: block;
+	padding: 28px 0px 0px 467px;
+	clear: both;
+}
+
+.fifthy input {
+	float: left;
+	height: 58px;
+	width: 280px;
+	font-family: 'Gotham RoundedMedium';	
+	border: none;
+	border-bottom-left-radius: 3px;
+	border-top-left-radius: 3px;	
+}
+
+.subscr img {
+	padding: 5px 0px 0px 5px;
+}
+
+.fifthy button {
+	padding-top: -1px; 
+	float: left;
+	border-bottom-left-radius: 0px;
+	border-top-left-radius: 0px;
+	height: 60px;
+	width: 63px;
+}
+
+.seventh {
+	display: block;
+	position: relative;
+	height: 396px;
+	width: 1280px;
+	margin: 0;
+	text-align: center;
+}
+
+.seventh p {
+	margin: 0;
+	color: #000000;
+	font-family: 'Gotham RoundedBold';
+	font-size: 20px;
+	float: left;
+	clear: both;
+	display: block;
+	padding: 88px 0px 0px 547px;
+	letter-spacing: 3px;
+	word-spacing: 0.5px;
+}
+
+.seventh .sevcont {
+	margin: 0;
+	color: #000000;
+	font-family: 'Gotham Rounded';
+	font-size: 12px;
+	line-height: 22px;
+	letter-spacing: 1.5px;
+	word-spacing: 2px;
+	float: left;
+	clear: both;
+	padding: 5px 220px;
+}
+
+.seventh .downlbutt {
+	margin: 0px;
+	color: #000000;
+	font-family: 'Gotham Rounded';
+	font-size: 10px;
+	line-height: 12px;
+	letter-spacing: 1.5px;
+}
+
+.downlbutt button {
+	margin: 36px 0px 0px 10px;
+	height: 56px;
+	width: 240px;
+	border-bottom-right-radius: 0px;
+	border-top-right-radius: 0px;
+	color: #ffffff;
+	background-color: #1ABC9C;
+	font-family: 'Gotham RoundedBold';
+	font-size: 16px;
+	letter-spacing: 3px;
+	padding: 0px 52px 0px 0px;
+}
+
+.downlapple {
+	float: left;
+	display: block;
+	margin: 0px 0px 0px 320px;
+}
+
+.downlandroid {
+	float: left;
+	display: block;
+}
+
+.downlapple button {
+	font-size: 15px;
+	padding: 4px 51px 0px 0px;
+	word-spacing: 1.5px;
+}
+
+.downlandroid button {
+	padding: 0px 40px 0px 5px;
+	letter-spacing: 4px;
+}
+
+.pic_apple {
+	margin: 36px 16px 0px 0px;
+	float: left;
+	display: block;
+	background-color: #16A085;
+	height: 56px;
+	width: 56px;
+	border-bottom-right-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+.pic_apple img {
+	padding: 15.5px 0px;
+}
+
+.pic_android {
+	margin: 36px 20px 0px 0px;
+	float: left;
+	display: block;
+	background-color: #16A085;
+	height: 56px;
+	width: 56px;
+	border-bottom-right-radius: 3px;
+	border-top-right-radius: 3px;
+}
+
+.pic_android img {
+	padding: 14px 0px 0px 2px;
+}
+
+.footer {
+	display: block;
+	position: relative;
+	height: 129px;
+	width: 1280px;
+	margin: 0;
+	text-align: center;
+}
+
+.cont_footer {
+	float: left;
+	display: block;
+}
+
+.cont_footer p {
+	margin: 0;
+	color: #000000;
+	font-family: 'Gotham RoundedBold';
+	font-size: 14px;
+	float: left;
+	clear: both;
+	display: block;
+	padding: 45px 0px 0px 126px;
+	letter-spacing: 2px;
+	word-spacing: 0.5px;
+}
+
+.cont_footer p span {
+	color: #26A68D;
+}
+
+.cont_footer .coprigh {
+	margin: 0;
+	color: #000000;
+	font-family: 'Gotham Rounded';
+	font-size: 14px;
+	line-height: 22px;
+	letter-spacing: 2.4px;
+	word-spacing: -1px;
+	float: left;
+	clear: both;
+	padding: 16px 0px 0px 126px;
+}
+
+.cam_footer {
+	margin: 0;
+	float: left;
+	display: block;
+	padding: 38px 0px 0px 577px;
+}
